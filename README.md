@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vlad</h1>
+<h1 align="center">Hi, I'm Vlad 👋</h1>
 <h3 align="center">a Full Stack Web Developer with a background in qualitative research</h3>
 
 - 🌱 I’m currently learning **React Native, Gatsby, TailwindCSS**
 
+- 🤝 I’m looking for help with **new job opportunities**
+
+- ⚡ Fun fact **I used to do human rights works before coding!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/vladlobanoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vladlobanoff" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vladislav-lobanov-a00a9854/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vladislav-lobanov-a00a9854/" height="30" width="40" /></a>
 </p>
 
