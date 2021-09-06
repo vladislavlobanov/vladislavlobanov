@@ -4,7 +4,7 @@
 
 - 🤝 I’m looking for **new job opportunities**
 
-- ⚡ Fun fact! **I used to do human rights works before coding**
+- ⚡ Fun fact! **I used to work in human rights protection before coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
