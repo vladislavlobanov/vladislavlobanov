@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native, Gatsby, TailwindCSS**
 
-- 🤝 I’m looking for help with **new job opportunities**
+- 🤝 I’m looking for **new job opportunities**
 
 - ⚡ Fun fact **I used to do human rights works before coding!**
 
