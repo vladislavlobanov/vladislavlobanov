@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vlad 👋 a a Full Stack Web Developer</h1>
+<h1 align="center">Hi, I'm Vlad 👋 a Full Stack Web Developer 👨‍💻</h1>
 
 - 🌱 I’m currently learning **React Native, Gatsby, TailwindCSS**
 
