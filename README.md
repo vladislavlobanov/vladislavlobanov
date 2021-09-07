@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Vlad 👋 a Full Stack Web Developer 👨‍💻</h1>
 
-- 🌱 I’m currently learning **React Native, Gatsby, TailwindCSS**
-
 - 🤝 I’m looking for **new job opportunities**
 
 - ⚡ Fun fact! **I used to work in human rights protection before coding**
