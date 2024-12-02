@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Vlad 👋 a Full Stack Web Developer 👨‍💻</h1>
 
-- 🤝 I’m looking for **new job opportunities**
-
-- ⚡ Fun fact! **I used to work in human rights protection before coding**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vladislav-lobanov-a00a9854/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vladislav-lobanov-a00a9854" height="30" width="40" /></a>
